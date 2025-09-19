@@ -1,3 +1,3 @@
 # github-projects-playground
 
-This is GitHub project management and collaboration repository.
+This is GitHub project management and collaboration repository for educational purposes.
